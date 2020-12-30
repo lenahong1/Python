@@ -2,7 +2,7 @@
 #
 # CodeGrade Example Assigment
 # support@codegrade.com
-
+# comment
 from math import sqrt
 
 import sys
